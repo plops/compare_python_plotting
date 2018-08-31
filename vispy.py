@@ -1,3 +1,8 @@
+"""
+aurman -S python-vispy-git
+pacman -S python-glfw
+"""
+
 # https://github.com/ipython-books/cookbook-code/blob/master/featured/06_vispy.ipynb
 from vispy import app
 from vispy import gloo
